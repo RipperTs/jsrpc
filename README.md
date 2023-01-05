@@ -2,7 +2,7 @@
 
 -- js逆向之远程调用(rpc)免去抠代码补环境
 
-> tip:懒得自己编译的 ，[releases](https://github.com/jxhczhl/JsRpc/releases)中有已经编译好的包 （win、Linux、MacOS的都有~）
+> tip:懒得自己编译的 ，[releases](https://gitee.com/ripperTs/jsrpc/releases)中有已经编译好的包 （win、Linux、MacOS的都有~）
 
 ## 目录结构
 
